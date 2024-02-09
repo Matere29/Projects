@@ -32,3 +32,49 @@ const questions = [
     },
     // ... other questions
 ];
+
+# Task List App
+
+This simple task list app allows users to add tasks, mark them as completed, and delete tasks. The app uses HTML, CSS, and JavaScript to provide a basic interface for managing tasks.
+
+## Getting Started
+
+1. Clone the repository or download the ZIP file.
+
+    ```bash
+    git clone https://github.com/your-username/task-list-app.git
+    ```
+
+2. Open the `index.html` file in your preferred web browser.
+
+## Usage
+
+- **Add a task**: Type your task in the input box and click the "Add Task" button.
+- **Mark as completed**: Click on a task to mark it as completed.
+- **Delete a task**: Click on the 'x' button next to a task to delete it.
+
+## Features
+
+- **Add Task**: Prevents adding an empty task and displays an alert if attempted.
+- **Mark as Completed**: Toggle the completion status of a task by clicking on it.
+- **Delete Task**: Remove a task by clicking on the 'x' button next to it.
+- **Local Storage**: Persists tasks in the browser's local storage for data retention.
+
+## Code Overview
+
+- `index.html`: Contains the structure of the app.
+- `styles.css`: Provides basic styling for the app.
+- `script.js`: Implements the functionality of adding, marking, and deleting tasks. It also includes local storage management.
+
+## Contributing
+
+Feel free to contribute to the development of this task list app. You can submit bug reports, feature requests, or even pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Thanks to [OpenAI](https://www.openai.com/) for providing the GPT-3.5 model that assisted in generating this README.
+
