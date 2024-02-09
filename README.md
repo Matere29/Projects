@@ -35,6 +35,7 @@ const questions = [
 
 # Task List App
 
+
 This simple task list app allows users to add tasks, mark them as completed, and delete tasks. The app uses HTML, CSS, and JavaScript to provide a basic interface for managing tasks.
 
 ## Getting Started
@@ -77,4 +78,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Thanks to [OpenAI](https://www.openai.com/) for providing the GPT-3.5 model that assisted in generating this README.
+
+
 
